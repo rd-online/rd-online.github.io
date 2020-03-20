@@ -15,5 +15,15 @@ title: First Post
 
 <http://www.google.com>
 
+> Man is an Animal
+
+```php
+<?php 
+    $var = 0;
+```
+
+---
+****
+
 
 
