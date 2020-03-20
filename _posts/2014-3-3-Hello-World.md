@@ -11,3 +11,9 @@ title: First Post
 
 {{ site.baseurl }}/images/logo.png
 
+[Link](http://www.google.com)
+
+<http://www.google.com>
+
+
+
