@@ -1,5 +1,13 @@
 ---
-layout: page
-title: Home
+layout: post
+title: First Post
 ---
+
+## Post Title
+
+### subtitle
+
+#### header
+
+{{ site.baseurl }}/images/logo.png
 
